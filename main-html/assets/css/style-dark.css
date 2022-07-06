@@ -2198,11 +2198,11 @@ a .title { transition: all .4s; }
 
 .title-s5.title-sm span:first-child { font-size: 1.25rem; }
 
-.title-s5 span:first-child { display: block; padding-bottom: 13px; color: #46bdf4; font-weight: 500; }
+.title-s5 span:first-child { display: block; padding-bottom: 13px; color: #1e2f73; font-weight: 1000; }
 
-.tc-light .title-s5 span:first-child { color: rgb(62, 84, 165); }
+.tc-light .title-s5 span:first-child { color: rgb(36, 65, 170); }
 
-.title-s5 span:last-child { opacity: .7; }
+.title-s5 span:last-child { opacity: 1; }
 
 
 
@@ -4385,7 +4385,7 @@ ul.progress-info { display: flex; justify-content: space-between; }
 
 .feature-text p:last-child { margin-bottom: 0; }
 
-.feature-text-s8 .title-s5 { margin-bottom: 20px; }
+.feature-text-s8 .title-s5 { margin-bottom: 2px; }
 
 .feature-text-s1 .title-xs-alt { color: #28384c; line-height: 1.4; display: inline-block; }
 
