@@ -3886,7 +3886,7 @@ ul.progress-info { display: flex; justify-content: space-between; }
 
 .banner-gfx-re-s4 { margin: 0 -95px; }
 
-.banner-gfx-icon { position: absolute; width: 4.2%; top: 32%; }
+.banner-gfx-icon { position: relative; width: 75%; top: 10%; }
 
 .banner-gfx-icon-1 { left: 43.75%; animation: jumping 1s linear 0s infinite alternate; }
 
