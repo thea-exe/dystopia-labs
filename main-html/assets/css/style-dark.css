@@ -2200,11 +2200,11 @@ a .title { transition: all .4s; }
 
 .title-s5 span:first-child { display: block; padding-bottom: 13px; color: #46bdf4; font-weight: 500; }
 
-.tc-light .title-s5 span:first-child { color: #fff; }
+.tc-light .title-s5 span:first-child { color: rgb(62, 84, 165); }
 
 .title-s5 span:last-child { opacity: .7; }
 
-.title-s5:after { position: absolute; left: 50%; bottom: 0; transform: translate(-50%, 0); content: ''; width: 50px; height: 3px; border-radius: 2px; background: #46bdf4; }
+
 
 .title-s6 { position: relative; }
 
